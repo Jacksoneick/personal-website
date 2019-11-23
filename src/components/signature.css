@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('../resources/Summit_OpenType/SummitBold-Inline.otf'); }
+
+.name {
+    text-align: center;
+    font-family: 'MyWebFont';
+    font-size: 400%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 75px;
+    height: 15%;
+    width: 15%;
+}
+
