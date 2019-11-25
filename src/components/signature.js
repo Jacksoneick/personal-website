@@ -1,6 +1,5 @@
 import React from 'react';
-import signature from '../images/signature.png'
-import headshot from '../images/headshot.jpg'
+import headshot from '../images/headshot.png'
 import { blockStatement } from '@babel/types';
 import './signature.css'
 

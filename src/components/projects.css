@@ -1,0 +1,12 @@
+.grid {
+    margin: 70px;
+    padding: 100px;
+}
+
+.card {
+    margin: 20px;
+}
+
+.button {
+    background-color: rgb(146, 107, 107) !important;
+}

@@ -1,0 +1,11 @@
+.progressBar {
+    margin: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: white;
+    background-color: tomato; 
+}
+
+.progress-bar {
+    background-color: rgb(146, 107, 107) !important;
+}
