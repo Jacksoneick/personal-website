@@ -1,8 +1,6 @@
 import React from 'react';
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
-import NavDropdown from 'react-bootstrap/NavDropdown'
-import Link from 'react-router-dom/Link';
 
 
 function NavbarComponent() {
@@ -14,7 +12,7 @@ function NavbarComponent() {
                 <Nav className="mr-auto">
                 <Nav.Link className="navBarText" href="/home">Home</Nav.Link>
                 <Nav.Link className="navBarText" href="/projects">Projects</Nav.Link>
-                <Nav.Link className="navBarText" >Contact Me</Nav.Link>
+                <Nav.Link className="navBarText" href='/contactMe' >Contact Me</Nav.Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>

@@ -9,3 +9,10 @@
 .progress-bar {
     background-color: rgb(146, 107, 107) !important;
 }
+
+.languageTitle {
+    margin: '20px';
+    margin-left: 150px;
+    color: white;
+}
+

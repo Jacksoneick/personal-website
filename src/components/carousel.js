@@ -3,13 +3,6 @@ import Carousel from 'react-bootstrap/Carousel';
 import './carousel.css';
 
 
-const style = {
-    marginRight: '125px',
-    marginLeft: '125px',
-    marginBottom: '125px',
-    size: '50%'
-}
-
 function CarouselComponent(props) {
     return(
         <Carousel className='carousel'>

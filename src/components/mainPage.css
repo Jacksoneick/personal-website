@@ -1,0 +1,13 @@
+.header {
+    margin-top: 120px;
+}
+
+.download::after {
+    content: url('../images/download_icon.png');
+    height: 1em;
+    position: relative;
+    top: 0.3em;
+    right: 0.5em;
+    width: 1em;
+    margin: 1em;
+  }

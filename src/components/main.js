@@ -4,6 +4,8 @@ import Route from 'react-router-dom/Route';
 import MainPage from './mainPage';
 import Projects from './projects';
 import WeatherApp from './weatherApp.js';
+import PageNotFound from './pageNotFound.js'
+import ContaceMe from './contactMe.js'
 
 const Main = () => (
     <main>
@@ -12,6 +14,8 @@ const Main = () => (
             <Route path="/home" component={MainPage} />
             <Route path="/projects" component={Projects} />
             <Route path='/weatherApp' component={WeatherApp} />
+            <Route path='/contactMe' component={ContaceMe} />
+            <Route component={PageNotFound}/>
         </Switch>
     </main>
 )

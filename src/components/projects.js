@@ -1,7 +1,5 @@
 import React from 'react';
 import Grid from '@material-ui/core/Grid'
-import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
 import './projects.css'
 import weatherApp from '../images/weather_app.jpg';
 import CardComponent from './projectCard.js';

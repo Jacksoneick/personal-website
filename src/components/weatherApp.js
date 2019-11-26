@@ -42,7 +42,7 @@ function WeatherApp() {
             </Grid>
             <Grid xs ={6}>
                 <h1><a className="link" href='https://github.com/Jacksoneick/Weather-App'>Check it out on GitHub!</a></h1>
-                <a href='https://github.com/Jacksoneick/Weather-App'><img src={gitHubLogo} style={{width: '25%', height:'55%', maxHeight: '200px'}}></img></a>
+                <a href='https://github.com/Jacksoneick/Weather-App'><img alt="GitHub logo" src={gitHubLogo} style={{width: '25%', height:'55%', maxHeight: '200px'}}></img></a>
             </Grid>
         </Grid>
     )
