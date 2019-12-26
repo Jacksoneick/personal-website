@@ -28,7 +28,7 @@ function WeatherApp() {
                 <h1>About the project</h1>
                 <h5>The inspiration for this app was the need for a weather app that allowed me to get all of the information that I needed
                     at a very quick glance. As a college student, my mornings are often rushed and I don't have time to open up a weather app and naviage 
-                    through all of the different numbers and data that are irrelivant for what I need, so I decided to make this app that would give me 
+                    through all of the different numbers and data that are irrelivant for what I need. Because of this, I decided to make this app that would give me 
                     the current weather and weather outlook for the next week at a quick glance.<br/><br />
                     Technologies Used:
                     <ul>

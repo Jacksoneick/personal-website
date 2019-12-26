@@ -1,0 +1,9 @@
+.carousel .item img {
+    max-height: 8px;
+    min-width: auto;
+  }
+
+.carousel {
+    width: auto;
+    overflow: hidden;
+  }
