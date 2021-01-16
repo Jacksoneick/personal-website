@@ -13,7 +13,7 @@ body, html {
   -o-background-size: cover; 
   height: 100%;
 }
-
+/* 
 .backgroundImage {
   background-image: url("./images/coffe_shop.png");
   background-repeat: no-repeat;
@@ -23,7 +23,7 @@ body, html {
   height: 100%;
   min-height: 100%;
   padding-bottom: 20px;
-}
+} */
 
 
 code {

@@ -8,12 +8,13 @@ import PageNotFound from './pageNotFound.js'
 import ContaceMe from './contactMe.js'
 import BloodBank from './bloodBank.js'
 import TransitSimulator from './transitSimulator.js'
+import UnderConstruction from './UnderConstruction/UnderConstruction'
 import './main.css'
 
 const Main = () => (
     <main className='main'>
         <Switch>
-            <Route exact path='/' component={MainPage}/>
+            <Route exact path='/' component={UnderConstruction}/>
             <Route path="/home" component={MainPage} />
             <Route path="/projects" component={Projects} />
             <Route path='/weatherApp' component={WeatherApp} />

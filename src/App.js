@@ -5,7 +5,7 @@ import Main from './components/main.js';
 function App() {
   return(
     <div className ="backgroundImage">
-      <NavbarComponent />
+      {/* <NavbarComponent /> */}
       <Main />
     </div>
     );
